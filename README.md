@@ -1,3 +1,5 @@
 # ImdbNaiveBayes
 
-## Work in progress!
+## Description
+
+Implementation of Naive Bayes in R
